@@ -1,0 +1,4 @@
+baseURL = 'http://agatasobczyk.pl'
+languageCode = 'en-us'
+title = 'Agata Sobczyk'
+theme = 'split'
