@@ -1,8 +1,0 @@
-baseURL = 'http://agatasobczyk.pl'
-languageCode = 'en-us'
-title = 'Agata Sobczyk'
-theme = 'split'
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
-
-copyright = "&copy;2023 Agata Sobczyk"
-
