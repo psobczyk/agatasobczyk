@@ -11370,6 +11370,13 @@ p+p {
 	color: #2D4B5F
 }
 
+.display-1-alt {
+	font-size: 36px;
+	font-weight: 800;
+	line-height: normal;
+	color: #FAC300
+}
+
 @media (min-width:992px) {
 	.display-1 {
 		font-size: 60px
